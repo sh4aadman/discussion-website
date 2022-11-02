@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: aliceblue;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+p {
+    font-weight: 200;
+    font-size: 2em;
+    font-style: italic;
+}
+
+li {
+    font-size: 1.5em;
+}
+
+button {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+section {
+    padding: 1em;
+}
+
+textarea {
+    background-color: aliceblue;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: medium;
+    padding: 0.5em;
+}
+
+button {
+    padding: 0.5em;
+    font-size: medium;
+}
