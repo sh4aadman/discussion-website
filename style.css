@@ -14,6 +14,10 @@ p {
     font-style: italic;
 }
 
+#foot-note {
+    font-size: 1em;
+}
+
 li {
     font-size: 1.5em;
 }
